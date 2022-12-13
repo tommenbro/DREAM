@@ -4,11 +4,11 @@ Template Name: Cryptocash – ICO, Cryptocurrency Website & ICO Landing Page HTM
 Version      : 1.8
 */
 a:hover,
-header a:hover,
-.navbar-nav li a.active,
+header a:hover, 
+.navbar-nav li a.active, 
 .navbar-expand-lg .navbar-nav .dropdown-menu li a.active,
 .navbar-expand-lg .navbar-nav .dropdown-item:hover,
-.navbar-expand-lg .navbar-nav .dropdown-item.active,
+.navbar-expand-lg .navbar-nav .dropdown-item.active, 
 .navbar-expand-lg .navbar-nav .dropdown.show > a,
 .social_icon li a:hover,
 .social_single_team li a:hover,
@@ -16,7 +16,7 @@ header a:hover,
 .blog_text a:hover,
 .blog_meta a:hover,
 .blog_meta a:hover i,
-.footer_menu li a:hover,
+.footer_menu li a:hover, 
 .footer_link a:hover,
 .footer_social li a:hover,
 .blog_title a:hover,
@@ -24,16 +24,16 @@ header a:hover,
 .blog_content_detail .blog_meta li a:hover i,
 .blog_content_detail .blog_meta a:hover span,
 .v_blue .social_icon li a:hover,
-.v_blue_pro .blog_text a:hover,
-.v_blue_pro .blog_meta a:hover,
-.v_blue_pro .blog_meta a:hover i,
-.v_dark .blog_text a:hover,
-.v_dark .blog_meta a:hover,
+.v_blue_pro .blog_text a:hover, 
+.v_blue_pro .blog_meta a:hover, 
+.v_blue_pro .blog_meta a:hover i, 
+.v_dark .blog_text a:hover, 
+.v_dark .blog_meta a:hover, 
 .v_dark .blog_meta a:hover i,
 .v_dark .social_icon li a:hover,
 .v_dark .social_single_team li a:hover,
 .breadcrumb li a:hover,
-.widget_category li a:hover,
+.widget_category li a:hover, 
 .widget_archive li a:hover,
 .tags li a:hover,
 .widget-post-content h6 a:hover,
@@ -43,7 +43,7 @@ header a:hover,
 .v_blue .social_single_team li a:hover,
 .v_royal_blue .social_icon li a:hover,
 .doc_list li a:hover,
-.v_navy_blue .nav-item a:hover,
+.v_navy_blue .nav-item a:hover, 
 .v_navy_blue .nav-item a.active,
 .footer_link_s2 li a:hover,
 .roadmap_wrap .owl-nav i:hover,
@@ -51,9 +51,9 @@ header a:hover,
 .vertical_social li a:hover,
 .doc_lan li a:hover,
 .doc_lan li a:hover span i,
-.tab_nav_s2 li.nav-item a.active,
+.tab_nav_s2 li.nav-item a.active, 
 .tab_nav_s2 li.nav-item a:hover {
-  color: #006385;
+	color: #438e89;
 }
 .pr_box h6,
 .chart_list_info li p span,
@@ -65,7 +65,7 @@ header a:hover,
 .token_detail li span,
 .discount_text,
 .rating {
-  color: #006385;
+	color: #F9DFB6;
 }
 .navbar-expand-lg .navbar-nav > li > .nav-link.active::before,
 .single_roadmap.roadmap_done .roadmap_icon,
@@ -73,97 +73,78 @@ header a:hover,
 .roadmap_box.current .roadmap_inner,
 .roadmap .owl-nav i:hover,
 .box_roadmap .roadmap_inner::after,
-.tab-link.active,
-.tab-link.active:hover,
+.tab-link.active, 
+.tab-link.active:hover, 
 .tab-link:hover,
-.v_light_dark .tab-link.active,
-.v_light_dark .tab-link.active:hover,
+.v_light_dark .tab-link.active, 
+.v_light_dark .tab-link.active:hover, 
 .v_light_dark .tab-link:hover,
-.v_royal_blue .tab-link.active,
-.v_royal_blue .tab-link.active:hover,
-.v_royal_blue .tab-link:hover,
+.v_royal_blue .tab-link.active, 
+.v_royal_blue .tab-link.active:hover, 
+.v_royal_blue .tab-link:hover ,
 .tab_nav_s4 li.nav-item a.active,
 .timeline_box.complete .timeline_circle::before,
 .timeline_box.complete::before,
 .timeline_box.current .timeline_inner,
 .timeline .owl-nav i:hover {
-  background-color: #006385;
+	background-color: #438e89;
 }
 .roadmap_box.current .roadmap_inner::before,
 .timeline_box.current .timeline_inner::before {
-  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #006385;
+	border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #438e89;
 }
 .btn-default {
-  background-image: -webkit-linear-gradient(
-    left,
-    #45d0ff 0%,
-    #00bfff 51%,
-    #006385
-  );
-  background-image: linear-gradient(to right, #45d0ff 0%, #00bfff 51%, #006385);
+	background-image: -webkit-linear-gradient(left, #438e89 0%,#F9DFB6 51%,#438e89);
+	background-image: linear-gradient(to right, #438e89 0%,#F9DFB6 51%,#438e89);
 }
-.btn-default.active.focus,
-.btn-default.active:focus,
-.btn-default.active:hover,
-.btn-default:active:focus,
+.btn-default.active.focus, 
+.btn-default.active:focus, 
+.btn-default.active:hover, 
+.btn-default:active:focus, 
 .btn-default:active:hover,
 .btn-default.active,
 .btn-default:active,
-.btn-default.focus:active,
+.btn-default.focus:active, 
 .btn-default:focus,
-.btn.active:not(:disabled):not(.disabled),
+.btn.active:not(:disabled):not(.disabled), 
 .btn:active:not(:disabled):not(.disabled) {
-  background-image: -webkit-linear-gradient(
-    left,
-    #45d0ff 0%,
-    #00bfff 51%,
-    #006385
-  );
-  background-image: linear-gradient(to right, #45d0ff 0%, #00bfff 51%, #006385);
+	background-image: -webkit-linear-gradient(left, #F9DFB6 0%,#438e89 51%,#F9DFB6);
+	background-image: linear-gradient(to right, #F9DFB6 0%,#438e89 51%,#F9DFB6);
 }
 .btn-border,
 .btn.btn-border:hover,
-.btn.btn-border.active.focus,
-.btn.btn-border.active:focus,
-.btn.btn-border.active:hover,
-.btn.btn-border:active:focus,
-.btn.btn-border:active:hover,
-.btn.btn-border.active,
-.btn.btn-border:active,
-.btn.btn-border.focus:active,
+.btn.btn-border.active.focus, 
+.btn.btn-border.active:focus, 
+.btn.btn-border.active:hover, 
+.btn.btn-border:active:focus, 
+.btn.btn-border:active:hover, 
+.btn.btn-border.active, 
+.btn.btn-border:active, 
+.btn.btn-border.focus:active, 
 .btn.btn-border:focus,
-.doc_dropdown > a,
-.doc_dropdown > a:hover,
+.doc_dropdown > a, .doc_dropdown > a:hover,
 .doc_dropdown .dropdown-menu {
-  background-image: -webkit-linear-gradient(left, #45d0ff 0%, #006385 99%);
-  background-image: linear-gradient(to right, #45d0ff 0%, #006385 99%);
+	background-image: -webkit-linear-gradient(left, #F9DFB6 0%,#438e89 99%);
+	background-image: linear-gradient(to right, #F9DFB6 0%,#438e89 99%);
 }
 button,
 .team_img.gradient_box::before,
 .team_pop .progress-bar,
 .tk_counter_inner .progress-bar.gradient,
 .faq_content4 .card-header a::after {
-  background-image: -webkit-linear-gradient(left, #45d0ff 0%, #006385 99%);
-  background-image: linear-gradient(to right, #45d0ff 0%, #006385 99%);
+	background-image: -webkit-linear-gradient(left, #438e89 0%,#F9DFB6 99%);
+	background-image: linear-gradient(to right, #438e89 0%,#F9DFB6 99%);
 }
 .gradient_box {
-  background-image: -webkit-linear-gradient(
-    left,
-    #45d0ff 0%,
-    #006385 99%
-  ) !important;
-  background-image: linear-gradient(
-    to right,
-    #45d0ff 0%,
-    #006385 99%
-  ) !important;
+	background-image: -webkit-linear-gradient(left, #438e89 0%,#F9DFB6 99%) !important;
+	background-image: linear-gradient(to right, #438e89 0%,#F9DFB6 99%) !important;
 }
 .team_social_s2 {
-  background-image: -webkit-linear-gradient(top, #45d0ff 0%, #006385 99%);
-  background-image: linear-gradient(to bottom, #45d0ff 0%, #006385 99%);
+	background-image: -webkit-linear-gradient(top, #438e89 0%,#F9DFB6 99%);
+	background-image: linear-gradient(to bottom, #438e89 0%,#F9DFB6 99%);
 }
 .dl_lan li a {
-  border-color: #f9dfb6;
+	border-color: #F9DFB6;
 }
 .tags li a:hover,
 .dl_lan li a:hover,
@@ -171,9 +152,9 @@ button,
 .video_wrap::before,
 .tab_nav_s4 li.nav-item a.active,
 .timeline_box.complete .timeline_circle::before {
-  border-color: #006385;
+	border-color: #438e89;
 }
 
 .pai {
-  color: #fff;
+	color: #fff;
 }
